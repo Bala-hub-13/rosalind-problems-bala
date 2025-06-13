@@ -1,6 +1,6 @@
 # Rosalind Problem Tracker – Bala
 
-## Completed
+## To-Do
 
 | # | Problem Name              | Link                        | Difficulty | Date       |
 |---|---------------------------|-----------------------------|------------|------------|
