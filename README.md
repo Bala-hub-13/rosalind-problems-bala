@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Rosalind Problems – Bala
 
 This repository contains my solutions to selected bioinformatics problems from [Rosalind](https://rosalind.info)
@@ -14,8 +14,5 @@ This repository contains my solutions to selected bioinformatics problems from [
 
 According to FAQ section of ROSALIND Platform, I cannot directly make my actual code available, but I will write about my methods and pseudocode. So, this repository contains my approach(Not a Programmer!) to selected bioinformatics problems from [Rosalind](https://rosalind.info)
 
-## Structure
-- `solutions/`: All Jupyter notebook solutions
 
 
->>>>>>> 4392ecd6bb023cc860c4843d22564f4d302300c0
